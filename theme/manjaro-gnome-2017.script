@@ -3,7 +3,7 @@
 # Window.SetBackgroundTopColor(0.00, 0.00, 0.00);
 # Window.SetBackgroundBottomColor(0.00, 0.00, 0.00);
 
-wallpaper_image = Image("bg.jpg");
+wallpaper_image = Image("bg.png");
 screen_width = Window.GetWidth();
 screen_height = Window.GetHeight();
 resized_wallpaper_image = wallpaper_image.Scale(screen_width,screen_height);
