@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=manjaro-gnome-2017
+Description=Plymouth Theme for manjaro-gnome-2017
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/manjaro-gnome-2017
+ScriptFile=/usr/share/plymouth/themes/manjaro-gnome-2017/manjaro-gnome-2017.script
