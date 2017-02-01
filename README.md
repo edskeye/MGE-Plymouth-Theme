@@ -1,0 +1,1 @@
+# Manjaro Gnome Plymouth Theme
